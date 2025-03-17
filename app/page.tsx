@@ -129,6 +129,7 @@ export default function Home() {
             }
             setIsCompleted(true);
             setIsModalOpen(false);
+            setError(null);;
             console.log("Referral successfully applied!");
         } catch (error) {
             console.log("Error submitting referral:", error);
