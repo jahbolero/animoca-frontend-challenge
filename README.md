@@ -9,7 +9,7 @@ $ npm install
 ## Compile and run the project
 
 ```bash
-$ npm run start
+$ npm run dev
 ```
 ## Testing
 It is critical that the backend project is running in order to perform testing on the frontend app.
